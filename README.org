@@ -1,0 +1,18 @@
+#+STARTUP: showall
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:{} arch:headline author:t c:nil
+#+OPTIONS: creator:nil d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t
+#+OPTIONS: num:nil p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t timestamp:t
+#+OPTIONS: title:t toc:t todo:t |:t
+#+TITLE: LFE Katas
+#+SUBTITLE: Miscellaneous katas in LFE
+#+DATE: <2016-05-17 Tue>
+#+AUTHOR: Eric Bailey
+#+LANGUAGE: en
+#+CREATOR: Emacs 25.0.93.1 (Org mode 8.3.4)
+
+/Miscellaneous katas in LFE/
+
+* Build
+#+BEGIN_SRC fish
+rebar3 compile
+#+END_SRC
